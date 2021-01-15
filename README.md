@@ -31,5 +31,10 @@ To re-learn SQL commands and their implementation. Various resources will be lis
       
   - generate `requirement.txt` (optional)
   
-  This file is required for deployment purposes only. 
+  This file is required for deployment purposes only.
+
+##### Step 2: Start coding in Spyder
+- open spyder
+
+  
       
