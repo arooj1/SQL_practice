@@ -27,6 +27,7 @@ To re-learn SQL commands and their implementation. Various resources will be lis
       - conda install pandas
       - conda install scikit-learn
       - conda install -c conda-forge google-cloud-bigquery
+      - conda install spyder (optional)
       
   - generate `requirement.txt` (optional)
   
